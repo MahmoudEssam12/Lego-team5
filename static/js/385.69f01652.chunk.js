@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklego=self.webpackChunklego||[]).push([[385],{64385:function(e,n,s){s.r(n),s.d(n,{default:function(){return t}});s(72791);var c=s(44552),i=s(80184);function t(){return(0,i.jsxs)("div",{className:"about-us-container",children:[(0,i.jsxs)("div",{children:[(0,i.jsx)("h1",{children:"We're The best in what we do"}),(0,i.jsx)("h3",{children:"Lego Team"})]}),(0,i.jsx)("img",{src:c})]})}},44552:function(e,n,s){e.exports=s.p+"static/media/lego_1.2338fb9639c5c414beac.gif"}}]);
+//# sourceMappingURL=385.69f01652.chunk.js.map
